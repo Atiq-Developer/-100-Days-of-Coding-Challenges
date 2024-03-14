@@ -1,0 +1,12 @@
+{
+  "name": "100daysofcodingchallenges",
+  "version": "1.0.0",
+  "description": "challenge Day 4, I solve Question10,11,12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hafiz M Atiq RollNo:00055468",
+  "license": "ISC"
+}
