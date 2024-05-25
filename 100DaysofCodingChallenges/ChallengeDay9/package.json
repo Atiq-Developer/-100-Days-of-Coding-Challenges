@@ -1,0 +1,12 @@
+{
+  "name": "challengeday9",
+  "version": "1.0.0",
+  "description": "Question 25, 26 ,27 of coding challenge Day 9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "00055468 Muhammad Atiq Ur Rehman",
+  "license": "MIT"
+}
